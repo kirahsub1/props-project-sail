@@ -1,0 +1,10 @@
+.container1{
+    display: flex;
+}
+.Product-container{
+    display: flex;
+}
+.blogs{
+    display: flex;
+    flex-wrap: wrap;
+}
