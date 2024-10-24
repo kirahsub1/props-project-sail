@@ -19,18 +19,21 @@ const Home = () => {
           oruko="John"
           age={12}
           location="Lagos"
+          color="render-x"
         />
         <Card
           image="https://res.cloudinary.com/dgcjq4kbf/image/upload/v1708439136/OPDR1153_x0r2ge.jpg"
           oruko="Simisola"
           age={30}
           location="Lagos"
+          color="render-v"
         />
         <Card
           image="https://res.cloudinary.com/dgcjq4kbf/image/upload/v1708439136/OPDR1153_x0r2ge.jpg"
           oruko="Femi"
           age={20}
           location="Lagos"
+          color="render-u"
         />
       </div>
       {/* ProductCard section */}

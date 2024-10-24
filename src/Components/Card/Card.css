@@ -17,7 +17,8 @@
         border-radius: 50%;
         overflow: hidden;
         margin-left: 40px;
-        margin-top: 10px;
+        margin-top: 20px;
+        
     }
     .card-text{
         display: flex;
@@ -31,4 +32,16 @@
     }
     
 
+}
+.render-x{
+    background-color:rgb(170, 216, 170);
+    color:grey;
+}
+.render-u{
+    background-color:green;
+    color:white;
+}
+.render-v{
+    background-color:rgb(2, 14, 2);
+    color:white;
 }
