@@ -1,6 +1,6 @@
 import Blog from "../Components/Blogs/Blog";
 import Card from "../Components/Card/Card"
-import Product from "../Components/product/product";
+import Product from "../Components/Product/Product";
 import "./Home.css"
 
 const Home = () => {
